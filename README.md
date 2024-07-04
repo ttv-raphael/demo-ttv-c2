@@ -1,5 +1,3 @@
-# demo-ttv-c2
+# Demo TTV Cohort 2
 
-Feature 1 in progress.
-
-This is some more text.
+This is the demo repo for cohort 2.
